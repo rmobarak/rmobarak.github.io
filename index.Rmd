@@ -19,7 +19,7 @@ setwd(working_directory)
 
 <br>
 
-<p style = "font-size:20px"> I will be applying to Economics Ph.D. programs in the Fall of 2023. </p>
+<p style = "font-size:20px"> I will be applying to Economics Ph.D. programs for the Fall of 2023. </p>
 
 <br>
 
