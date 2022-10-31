@@ -1,0 +1,26 @@
+---
+title: "About Me"
+---
+
+```{r echo=FALSE, results = 'hide', message = FALSE}
+working_directory = "C:/Website Creation/rmobarak.github.io/"
+setwd(working_directory)
+```
+
+<img src = "files/website_photo.jpg" width = "400" height = "600" style = "float:left; padding-right:50px">
+
+<br>
+
+<p style = "font-size:20px"> I am a Pre-Doctoral fellow in Behavioral Economics at the Wharton School of the University of Pennsylvania. Specifically, I work at the <a href = "https://bcfg.wharton.upenn.edu/"> Behavior Change For Good Initiative</a>, where we promote sustained behavior change, through large scale randomized controlled trials and policy design. </p> 
+
+<br>
+
+<p style = "font-size:20px"> My independent research projects encompass Public Economics and Policy, Environmental Economics and Policy, and Experimental Economics. </p> 
+
+<br>
+
+<p style = "font-size:20px"> I will be applying to Economics Ph.D. programs in the Fall of 2023. </p>
+
+<br>
+
+<p style = "font-size:20px"> <strong> Email: <u> rmobarak@wharton.upenn.edu </u> </strong> </p>

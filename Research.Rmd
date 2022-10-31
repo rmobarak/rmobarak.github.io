@@ -1,0 +1,34 @@
+---
+title: "Research"
+---
+
+<br>
+
+<h2> <strong> PEER-REVIEWED PUBLICATIONS </strong> </h2>
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+<p style = "font-size:20px"> "A citywide experiment testing the impact of geographically targeted, high-pay-off vaccine lotteries." <a href = "https://www.nature.com/articles/s41562-022-01437-0"> (September 2022, Nature Human Behaviour)</a> </p>
+
+<p style = "font-size:18px"> <em> with <a href = "https://oid.wharton.upenn.edu/profile/kmilkman/"> Katherine L. Milkman</a>,<a href = "https://oid.wharton.upenn.edu/profile/lgandhi/#research"> Linnea Gandhi</a>,<a href = "https://sites.google.com/view/seanfellis/home?authuser=0"> Sean F. Ellis</a>, Heather N. Graci, Dena M. Gromet, <a href = "https://www.nursing.upenn.edu/details/profiles.php?id=37"> Allison M. Buttenheim</a>,<a href = "https://psychology.sas.upenn.edu/people/angela-duckworth"> Angela L. Duckworth</a>,<a href = "http://devingpope.com/"> Devin Pope</a>, Ala Stanford, <a href = "https://www.chicagobooth.edu/faculty/directory/t/richard-h-thaler"> Richard Thaler</a> and <a href = "https://hcmg.wharton.upenn.edu/profile/volpp70/"> Kevin G. Volpp</a>. </em> </p>
+
+<br>
+
+<h2> <strong> WORKING PAPERS </strong> </h2>
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+<p style = "font-size:20px"> "Evaluating Expectations from Social and Behavioral Science About COVID-19 and Lessons for the Next Pandemic." <a href = "https://psyarxiv.com/58udn/"> (October 2022, PsyArXiv)</a> </p>
+
+<p style = "font-size:18px"> <em> with <a href = "https://www.publichealth.columbia.edu/people/our-faculty/dr2946"> Kai Ruggeri</a>, Friederike Stock, <a href = "https://psychology.uq.edu.au/profile/3181/alex-haslam"> Alex S. Haslam</a>, et al. </em> </p>
+
+<br>
+
+<h2> <strong> SELECTED WORKS IN PROGRESS </strong> </h2>
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+<p style = "font-size:20px"> "Nudging Savings: A Large Field Experiment Among Bank Customers." </p>
+
+<p style = "font-size:18px"> <em> with <a href = "https://oid.wharton.upenn.edu/profile/kmilkman/"> Katherine L. Milkman</a>, Dena M. Gromet, <a href = "https://sites.google.com/view/seanfellis/home?authuser=0"> Sean F. Ellis</a>, Heather N. Graci,<a href = "https://psychology.sas.upenn.edu/people/angela-duckworth"> Angela L. Duckworth</a>, <a href = "https://ninamazar.com/"> Nina Mazar</a>, <a href = "https://www.danielmochon.net/"> Daniel Mochon</a>, <a href = "http://www.avnimshah.com/"> Avni Shah</a>, Laura Goodyear, <a href = "https://www.biorgpartnership.com/matt-hilchey"> Matthew Hilchey</a>, <a href = "https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Soman"> Dilip Soman</a>. </em> </p>
+
+<p style = "font-size:20px"> “Large-Scale Randomized Trials Testing Which Strategies Increase COVID-19 and Flu Vaccinations.” </p>
+
+<p style = "font-size:18px"> <em> with <a href = "https://oid.wharton.upenn.edu/profile/kmilkman/"> Katherine L. Milkman</a>, <a href = "https://sites.google.com/view/seanfellis/home?authuser=0"> Sean F. Ellis</a>, <a href = "https://hcmg.wharton.upenn.edu/profile/volpp70/"> Kevin G. Volpp</a>, Dena M. Gromet, Joseph S. Kay, <a href = "https://oid.wharton.upenn.edu/profile/rkuan/"> Rob Kuan</a>, <a href = "https://psychology.sas.upenn.edu/people/angela-duckworth"> Angela L. Duckworth</a>, <a href = "https://neillewisjr.com/"> Neil A. Lewis Jr</a>, <a href = "https://voices.uchicago.edu/jlist/"> John A. List</a>, <a href = "https://hcmg.wharton.upenn.edu/profile/mpatel/"> Mitesh S. Patel</a>. </em> </p>
