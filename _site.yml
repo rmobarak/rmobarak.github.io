@@ -15,5 +15,6 @@ navbar:
       href: https://twitter.com/MobarakRayyan
     - icon: fab fa-linkedin fa-lg
       href: https://www.linkedin.com/in/rmobarak
-  output:
-    html_document:
+output:
+  html_document:
+    theme: cosmo
