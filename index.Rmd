@@ -7,7 +7,7 @@ working_directory = "C:/Website Creation/rmobarak.github.io/"
 setwd(working_directory)
 ```
 
-<img src = "files/website_photo.jpg" width = "400" height = "600" style = "float:left; padding-right:50px">
+<img src = "files/website_photo.jpg" width = "500" height = "700" style = "float:left; padding-right:50px">
 
 <br>
 
