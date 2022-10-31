@@ -1,17 +1,11 @@
----
-title: "About Me"
----
-
-```{r echo=FALSE, results = 'hide', message = FALSE}
-working_directory = "C:/Website Creation/rmobarak.github.io/"
-setwd(working_directory)
-```
-
-<img src = "files/website_photo.jpg" width = "500" height = "700" style = "float:left; padding-right:50px">
 
 <br>
 
-<p style = "font-size:20px"> I am a Pre-Doctoral fellow in Behavioral Economics at the Wharton School of the University of Pennsylvania. Specifically, I work at the <a href = "https://bcfg.wharton.upenn.edu/"> Behavior Change For Good Initiative</a>, where we promote sustained behavior change through large scale randomized controlled trials and policy design. </p> 
+<img src = "C:/Website Creation/rmobarak.github.io/files/website_photo.jpg" width = "510" height = "680" style = "float:left; padding-right:50px">
+
+<br>
+
+<p style = "font-size:20px"> I am a Pre-Doctoral Fellow at the <a href = "https://bcfg.wharton.upenn.edu/">Behavior Change For Good Initiative</a>, researching Behavioral Economics at the Wharton School of the University of Pennsylvania. We promote sustained behavior change through large-scale randomized controlled trials and policy design. </p> 
 
 <br>
 
