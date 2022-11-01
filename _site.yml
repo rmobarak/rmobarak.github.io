@@ -17,4 +17,4 @@ navbar:
       href: https://www.linkedin.com/in/rmobarak
 output:
   html_document:
-    theme: cosmo
+    theme: yeti

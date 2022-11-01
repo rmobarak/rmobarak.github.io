@@ -1,11 +1,14 @@
-
+<style>
+    body { background-color: cornsilk; }
+</style>
 <br>
 
 <img src = "C:/Website Creation/rmobarak.github.io/files/website_photo.jpg" width = "510" height = "680" style = "float:left; padding-right:50px">
 
 <br>
+<br>
 
-<p style = "font-size:20px"> I am a Pre-Doctoral Fellow at the <a href = "https://bcfg.wharton.upenn.edu/">Behavior Change For Good Initiative</a>, researching Behavioral Economics at the Wharton School of the University of Pennsylvania. We promote sustained behavior change through large-scale randomized controlled trials and policy design. </p> 
+<p style = "font-size:20px"> I am a Pre-Doctoral Fellow at the <a href = "https://bcfg.wharton.upenn.edu/">Behavior Change For Good Initiative</a>, researching Behavioral Economics at the Wharton School of the University of Pennsylvania. We promote sustained behavior change through large-scale randomized controlled trials and policy design. I earned my B.A. in Economics and Applied Mathematics & Statistics (2021) from Macalester College. </p> 
 
 <br>
 
