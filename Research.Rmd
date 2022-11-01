@@ -12,7 +12,7 @@
 
 <h4> <strong> Abstract </strong> </h4>
 
-<a href = "https://www.nature.com/articles/s41562-022-01437-0"> <img src = "C:/Website Creation/rmobarak.github.io/files/sweepstakes_map.jpg" width = "317" height = "300" style = "float:right; padding-left:50px"> </a>
+<a href = "https://www.nature.com/articles/s41562-022-01437-0"> <img src = "C:/Website Creation/rmobarak.github.io/files/sweepstakes_map.jpg" width = "370" height = "350" style = "float:right; padding-left:50px"> </a>
 
 <em> Lotteries have been shown to motivate behaviour change in many settings, but their value as a policy tool is relatively untested. We implemented a pre-registered, citywide experiment to test the effects of three high-pay-off, geographically targeted lotteries designed to motivate adult Philadelphians to get their COVID-19 vaccine. In each drawing, the residents of a randomly selected ‘treatment’ zip code received half the lottery prizes, boosting their chances of winning to 50×–100× those of other Philadelphians. The first treated zip code, which drew considerable media attention, may have experienced a small bump in vaccinations compared with the control zip codes: average weekly vaccinations rose by an estimated 61 per 100,000 people per week (+11%). After pooling the results from all three zip codes treated during our six-week experiment, however, we do not detect evidence of any overall benefits. Furthermore, our 95% confidence interval provides a 9% upper bound on the net benefits of treatment in our study. </em>
 
