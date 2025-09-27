@@ -3,7 +3,7 @@
 </style>
 <br>
 
-<img src = "G:/My Drive/Professional Documents/Website Creation/rmobarak.github.io/files/website_photo.jpg" width = "510" height = "680" style = "float:left; padding-right:50px">
+<img src = "H:/My Drive/Professional Documents/Website Creation/rmobarak.github.io/files/website_photo.jpg" width = "510" height = "680" style = "float:left; padding-right:50px">
  
 <br>
 
