@@ -3,21 +3,16 @@
 </style>
 <br>
 
-<img src = "C:/Website Creation/rmobarak.github.io/files/website_photo.jpg" width = "510" height = "680" style = "float:left; padding-right:50px">
-
-<br>
-<br>
-
-<p style = "font-size:20px"> I am a Pre-Doctoral Fellow at the <a href = "https://bcfg.wharton.upenn.edu/">Behavior Change For Good Initiative</a>, researching Behavioral Economics at the Wharton School of the University of Pennsylvania. We promote sustained behavior change through large-scale randomized controlled trials and policy design. I earned my B.A. in Economics and Applied Mathematics & Statistics (2021) from Macalester College. </p> 
-
+<img src = "G:/My Drive/Professional Documents/Website Creation/rmobarak.github.io/files/website_photo.jpg" width = "510" height = "680" style = "float:left; padding-right:50px">
+ 
 <br>
 
-<p style = "font-size:20px"> My independent research projects encompass Public Economics and Policy, Environmental Economics and Policy, and Experimental Economics. </p> 
+<p style = "font-size:20px"> I am a Ph.D. student in the <a href = "https://arec.umd.edu/">department of Agricultural and Resource Economics </a> at the <a href = "https://umd.edu/">University of Maryland</a>. My research examines barriers individuals face against investments towards viral infection prevention, and ways to remove such barriers and incentivize such protection. </p>  
 
 <br>
 
-<p style = "font-size:20px"> I will be applying to Economics Ph.D. programs for the Fall of 2023. </p>
+<p style = "font-size:20px"> Prior to this, I was a Pre-Doctoral Fellow at the <a href = "https://bcfg.wharton.upenn.edu/">Behavior Change For Good Initiative</a>, researching Behavioral Economics at the <a href = "https://www.wharton.upenn.edu/">Wharton School of the University of Pennsylvania</a>. We promoted sustained behavior change through large-scale randomized controlled trials and policy design. I earned my B.A. in Economics and Applied Mathematics & Statistics (2021) from <a href = "https://www.macalester.edu/">Macalester College</a>. </p> 
 
 <br>
 
-<p style = "font-size:20px"> <strong> Email: <u> rmobarak@wharton.upenn.edu </u> </strong> </p>
+<p style = "font-size:20px"> <strong> Email: <u> rmobarak@umd.edu </u> </strong> </p>

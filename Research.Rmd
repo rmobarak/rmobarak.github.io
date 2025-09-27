@@ -6,40 +6,25 @@
 <h2> <strong> PEER-REVIEWED PUBLICATIONS </strong> </h2>
 -------------------------------------------------------------------------------------------------------------------------------------------
 
+<p style = "font-size:20px"> "A synthesis of evidence for policy from behavioural science during COVID-19." <a href = "https://www.nature.com/articles/s41586-023-06840-9"> (December 2023, Nature)</a> </p>
+
+<p style = "font-size:18px"> <em> with <a href = "https://www.publichealth.columbia.edu/people/our-faculty/dr2946"> Kai Ruggeri</a>, <a href = "https://oid.wharton.upenn.edu/profile/kmilkman/"> Katherine L. Milkman</a>, <a href = "https://mitsloan.mit.edu/faculty/directory/david-g-rand"> David G. Rand</a>, <a href = "https://elifinkel.com/"> Eli J. Finkel</a>, <a href = "https://www.gsb.stanford.edu/faculty-research/faculty/michele-j-gelfand"> Michele Gelfand</a>, <a href = "https://profiles.stanford.edu/alia-crum"> Alia Crum</a>, <a href = "https://hls.harvard.edu/faculty/cass-r-sunstein/"> Cass R. Sunstein</a>, <a href = "https://www.jayvanbavel.com/"> Jay J. Van Bavel</a>, <a href = "https://www.robbwiller.org/"> Robb Willer</a>, et al. </em> </p>
+
+<h4> <strong> Abstract </strong> </h4>
+
+<a href = "https://www.nature.com/articles/s41586-023-06840-9"> <img src = "G:/My Drive/Professional Documents/Website Creation/rmobarak.github.io/files/review_viz_2.jpg" width = "400" height = "400"  style = "float:right; padding-left:50px"> </a>
+
+<em> Scientific evidence regularly guides policy decisions, with behavioural science increasingly part of this process. In April 2020, an influential paper proposed 19 policy recommendations (‘claims’) detailing how evidence from behavioural science could contribute to efforts to reduce impacts and end the COVID-19 pandemic. Here we assess 747 pandemic-related research articles that empirically investigated those claims. We report the scale of evidence and whether evidence supports them to indicate applicability for policymaking. Two independent teams, involving 72 reviewers, found evidence for 18 of 19 claims, with both teams finding evidence supporting 16 (89%) of those 18 claims. The strongest evidence supported claims that anticipated culture, polarization and misinformation would be associated with policy effectiveness. Claims suggesting trusted leaders and positive social norms increased adherence to behavioural interventions also had strong empirical support, as did appealing to social consensus or bipartisan agreement. Targeted language in messaging yielded mixed effects and there were no effects for highlighting individual benefits or protecting others. No available evidence existed to assess any distinct differences in effects between using the terms ‘physical distancing’ and ‘social distancing’. Analysis of 463 papers containing data showed generally large samples; 418 involved human participants with a mean of 16,848 (median of 1,699). That statistical power underscored improved suitability of behavioural science research for informing policy decisions. Furthermore, by implementing a standardized approach to evidence selection and synthesis, we amplify broader implications for advancing scientific evidence in policy formulation and prioritization. </em>
+
 <p style = "font-size:20px"> "A citywide experiment testing the impact of geographically targeted, high-pay-off vaccine lotteries." <a href = "https://www.nature.com/articles/s41562-022-01437-0"> (September 2022, Nature Human Behaviour)</a> </p>
 
 <p style = "font-size:18px"> <em> with <a href = "https://oid.wharton.upenn.edu/profile/kmilkman/"> Katherine L. Milkman</a>,<a href = "https://oid.wharton.upenn.edu/profile/lgandhi/#research"> Linnea Gandhi</a>,<a href = "https://sites.google.com/view/seanfellis/home?authuser=0"> Sean F. Ellis</a>, Heather N. Graci, Dena M. Gromet, <a href = "https://www.nursing.upenn.edu/details/profiles.php?id=37"> Allison M. Buttenheim</a>,<a href = "https://psychology.sas.upenn.edu/people/angela-duckworth"> Angela L. Duckworth</a>,<a href = "http://devingpope.com/"> Devin Pope</a>, Ala Stanford, <a href = "https://www.chicagobooth.edu/faculty/directory/t/richard-h-thaler"> Richard Thaler</a> and <a href = "https://hcmg.wharton.upenn.edu/profile/volpp70/"> Kevin G. Volpp</a>. </em> </p>
 
 <h4> <strong> Abstract </strong> </h4>
 
-<a href = "https://www.nature.com/articles/s41562-022-01437-0"> <img src = "C:/Website Creation/rmobarak.github.io/files/sweepstakes_map.jpg" width = "370" height = "350" style = "float:right; padding-left:50px"> </a>
+<a href = "https://www.nature.com/articles/s41562-022-01437-0"> <img src = "G:/My Drive/Professional Documents/Website Creation/rmobarak.github.io/files/sweepstakes_map.jpg" width = "370" height = "350" style = "float:right; padding-left:50px"> </a>
 
 <em> Lotteries have been shown to motivate behaviour change in many settings, but their value as a policy tool is relatively untested. We implemented a pre-registered, citywide experiment to test the effects of three high-pay-off, geographically targeted lotteries designed to motivate adult Philadelphians to get their COVID-19 vaccine. In each drawing, the residents of a randomly selected ‘treatment’ zip code received half the lottery prizes, boosting their chances of winning to 50×–100× those of other Philadelphians. The first treated zip code, which drew considerable media attention, may have experienced a small bump in vaccinations compared with the control zip codes: average weekly vaccinations rose by an estimated 61 per 100,000 people per week (+11%). After pooling the results from all three zip codes treated during our six-week experiment, however, we do not detect evidence of any overall benefits. Furthermore, our 95% confidence interval provides a 9% upper bound on the net benefits of treatment in our study. </em>
 
-<br>
 
-<h2> <strong> WORKING PAPERS </strong> </h2>
--------------------------------------------------------------------------------------------------------------------------------------------
 
-<p style = "font-size:20px"> "Evaluating Expectations from Social and Behavioral Science About COVID-19 and Lessons for the Next Pandemic." <a href = "https://psyarxiv.com/58udn/"> (October 2022, PsyArXiv)</a> </p>
-
-<p style = "font-size:18px"> <em> with <a href = "https://www.publichealth.columbia.edu/people/our-faculty/dr2946"> Kai Ruggeri</a>, Friederike Stock, <a href = "https://psychology.uq.edu.au/profile/3181/alex-haslam"> Alex S. Haslam</a>, et al. </em> </p>
-
-<h4> <strong> Abstract </strong> </h4>
-
-<a href = "https://psyarxiv.com/58udn/"> <img src = "C:/Website Creation/rmobarak.github.io/files/review_viz.png" width = "579" height = "300" style = "float:right; padding-left:50px"> </a>
-
-<em> Social and behavioral science research proliferated during the COVID-19 pandemic, reflecting the substantial increase in influence of behavioral science in public health and public policy more broadly. This review presents a comprehensive assessment of 742 scientific articles on human behavior during COVID-19. Two independent teams evaluated 19 substantive policy recommendations (“claims”) on potentially critical aspects of behaviors during the pandemic drawn from the most widely cited behavioral science papers on COVID-19. Teams were made up of original authors and an independent team, all of whom were blinded to other team member reviews throughout. Both teams found evidence in support of 16 of the claims; for two claims, teams found only null evidence; and for no claims did the teams find evidence of effects in the opposite direction. One claim had no evidence available to assess. Seemingly due to the risks of the pandemic, most studies were limited to surveys, highlighting a need for more investment in field research and behavioral validation studies. The strongest findings indicate interventions that combat misinformation and polarization, and to utilize effective forms of messaging that engage trusted leaders and emphasize positive social norms. </em>
-
-<br>
-
-<h2> <strong> SELECTED WORKS IN PROGRESS </strong> </h2>
--------------------------------------------------------------------------------------------------------------------------------------------
-
-<p style = "font-size:20px"> "Nudging Savings: A Large Field Experiment Among Bank Customers." </p>
-
-<p style = "font-size:18px"> <em> with <a href = "https://oid.wharton.upenn.edu/profile/kmilkman/"> Katherine L. Milkman</a>, Dena M. Gromet, <a href = "https://sites.google.com/view/seanfellis/home?authuser=0"> Sean F. Ellis</a>, Heather N. Graci,<a href = "https://psychology.sas.upenn.edu/people/angela-duckworth"> Angela L. Duckworth</a>, <a href = "https://ninamazar.com/"> Nina Mazar</a>, <a href = "https://www.danielmochon.net/"> Daniel Mochon</a>, <a href = "http://www.avnimshah.com/"> Avni Shah</a>, Laura Goodyear, <a href = "https://www.biorgpartnership.com/matt-hilchey"> Matthew Hilchey</a>, <a href = "https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Soman"> Dilip Soman</a>. </em> </p>
-
-<p style = "font-size:20px"> “Large-Scale Randomized Trials Testing Which Strategies Increase COVID-19 and Flu Vaccinations.” </p>
-
-<p style = "font-size:18px"> <em> with <a href = "https://oid.wharton.upenn.edu/profile/kmilkman/"> Katherine L. Milkman</a>, <a href = "https://sites.google.com/view/seanfellis/home?authuser=0"> Sean F. Ellis</a>, <a href = "https://hcmg.wharton.upenn.edu/profile/volpp70/"> Kevin G. Volpp</a>, Dena M. Gromet, Joseph S. Kay, <a href = "https://oid.wharton.upenn.edu/profile/rkuan/"> Rob Kuan</a>, <a href = "https://psychology.sas.upenn.edu/people/angela-duckworth"> Angela L. Duckworth</a>, <a href = "https://neillewisjr.com/"> Neil A. Lewis Jr</a>, <a href = "https://voices.uchicago.edu/jlist/"> John A. List</a>, <a href = "https://hcmg.wharton.upenn.edu/profile/mpatel/"> Mitesh S. Patel</a>. </em> </p>

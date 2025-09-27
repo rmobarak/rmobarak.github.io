@@ -13,7 +13,7 @@
 
 <title>Research.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -143,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -298,6 +295,62 @@ $(document).ready(function () {
 </h2>
 <hr />
 <p style="font-size:20px">
+“A synthesis of evidence for policy from behavioural science during
+COVID-19.”
+<a href = "https://www.nature.com/articles/s41586-023-06840-9">
+(December 2023, Nature)</a>
+</p>
+<p style="font-size:18px">
+<em> with
+<a href = "https://www.publichealth.columbia.edu/people/our-faculty/dr2946">
+Kai Ruggeri</a>,
+<a href = "https://oid.wharton.upenn.edu/profile/kmilkman/"> Katherine
+L. Milkman</a>,
+<a href = "https://mitsloan.mit.edu/faculty/directory/david-g-rand">
+David G. Rand</a>, <a href = "https://elifinkel.com/"> Eli J.
+Finkel</a>,
+<a href = "https://www.gsb.stanford.edu/faculty-research/faculty/michele-j-gelfand">
+Michele Gelfand</a>,
+<a href = "https://profiles.stanford.edu/alia-crum"> Alia Crum</a>,
+<a href = "https://hls.harvard.edu/faculty/cass-r-sunstein/"> Cass R.
+Sunstein</a>, <a href = "https://www.jayvanbavel.com/"> Jay J. Van
+Bavel</a>, <a href = "https://www.robbwiller.org/"> Robb Willer</a>, et
+al. </em>
+</p>
+<h4>
+<strong> Abstract </strong>
+</h4>
+<p><a href = "https://www.nature.com/articles/s41586-023-06840-9">
+<img src = "files/review_viz_2.jpg" width = "400" height = "400"  style = "float:right; padding-left:50px">
+</a></p>
+<p><em> Scientific evidence regularly guides policy decisions, with
+behavioural science increasingly part of this process. In April 2020, an
+influential paper proposed 19 policy recommendations (‘claims’)
+detailing how evidence from behavioural science could contribute to
+efforts to reduce impacts and end the COVID-19 pandemic. Here we assess
+747 pandemic-related research articles that empirically investigated
+those claims. We report the scale of evidence and whether evidence
+supports them to indicate applicability for policymaking. Two
+independent teams, involving 72 reviewers, found evidence for 18 of 19
+claims, with both teams finding evidence supporting 16 (89%) of those 18
+claims. The strongest evidence supported claims that anticipated
+culture, polarization and misinformation would be associated with policy
+effectiveness. Claims suggesting trusted leaders and positive social
+norms increased adherence to behavioural interventions also had strong
+empirical support, as did appealing to social consensus or bipartisan
+agreement. Targeted language in messaging yielded mixed effects and
+there were no effects for highlighting individual benefits or protecting
+others. No available evidence existed to assess any distinct differences
+in effects between using the terms ‘physical distancing’ and ‘social
+distancing’. Analysis of 463 papers containing data showed generally
+large samples; 418 involved human participants with a mean of 16,848
+(median of 1,699). That statistical power underscored improved
+suitability of behavioural science research for informing policy
+decisions. Furthermore, by implementing a standardized approach to
+evidence selection and synthesis, we amplify broader implications for
+advancing scientific evidence in policy formulation and prioritization.
+</em></p>
+<p style="font-size:20px">
 “A citywide experiment testing the impact of geographically targeted,
 high-pay-off vaccine lotteries.”
 <a href = "https://www.nature.com/articles/s41562-022-01437-0">
@@ -341,88 +394,6 @@ After pooling the results from all three zip codes treated during our
 six-week experiment, however, we do not detect evidence of any overall
 benefits. Furthermore, our 95% confidence interval provides a 9% upper
 bound on the net benefits of treatment in our study. </em></p>
-<p><br></p>
-<h2>
-<strong> WORKING PAPERS </strong>
-</h2>
-<hr />
-<p style="font-size:20px">
-“Evaluating Expectations from Social and Behavioral Science About
-COVID-19 and Lessons for the Next Pandemic.”
-<a href = "https://psyarxiv.com/58udn/"> (October 2022, PsyArXiv)</a>
-</p>
-<p style="font-size:18px">
-<em> with
-<a href = "https://www.publichealth.columbia.edu/people/our-faculty/dr2946">
-Kai Ruggeri</a>, Friederike Stock,
-<a href = "https://psychology.uq.edu.au/profile/3181/alex-haslam"> Alex
-S. Haslam</a>, et al. </em>
-</p>
-<h4>
-<strong> Abstract </strong>
-</h4>
-<p><a href = "https://psyarxiv.com/58udn/">
-<img src = "files/review_viz.png" width = "579" height = "300" style = "float:right; padding-left:50px">
-</a></p>
-<p><em> Social and behavioral science research proliferated during the
-COVID-19 pandemic, reflecting the substantial increase in influence of
-behavioral science in public health and public policy more broadly. This
-review presents a comprehensive assessment of 742 scientific articles on
-human behavior during COVID-19. Two independent teams evaluated 19
-substantive policy recommendations (“claims”) on potentially critical
-aspects of behaviors during the pandemic drawn from the most widely
-cited behavioral science papers on COVID-19. Teams were made up of
-original authors and an independent team, all of whom were blinded to
-other team member reviews throughout. Both teams found evidence in
-support of 16 of the claims; for two claims, teams found only null
-evidence; and for no claims did the teams find evidence of effects in
-the opposite direction. One claim had no evidence available to assess.
-Seemingly due to the risks of the pandemic, most studies were limited to
-surveys, highlighting a need for more investment in field research and
-behavioral validation studies. The strongest findings indicate
-interventions that combat misinformation and polarization, and to
-utilize effective forms of messaging that engage trusted leaders and
-emphasize positive social norms. </em></p>
-<p><br></p>
-<h2>
-<strong> SELECTED WORKS IN PROGRESS </strong>
-</h2>
-<hr />
-<p style="font-size:20px">
-“Nudging Savings: A Large Field Experiment Among Bank Customers.”
-</p>
-<p style="font-size:18px">
-<em> with <a href = "https://oid.wharton.upenn.edu/profile/kmilkman/">
-Katherine L. Milkman</a>, Dena M. Gromet,
-<a href = "https://sites.google.com/view/seanfellis/home?authuser=0">
-Sean F. Ellis</a>, Heather N.
-Graci,<a href = "https://psychology.sas.upenn.edu/people/angela-duckworth">
-Angela L. Duckworth</a>, <a href = "https://ninamazar.com/"> Nina
-Mazar</a>, <a href = "https://www.danielmochon.net/"> Daniel Mochon</a>,
-<a href = "http://www.avnimshah.com/"> Avni Shah</a>, Laura Goodyear,
-<a href = "https://www.biorgpartnership.com/matt-hilchey"> Matthew
-Hilchey</a>,
-<a href = "https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Soman">
-Dilip Soman</a>. </em>
-</p>
-<p style="font-size:20px">
-“Large-Scale Randomized Trials Testing Which Strategies Increase
-COVID-19 and Flu Vaccinations.”
-</p>
-<p style="font-size:18px">
-<em> with <a href = "https://oid.wharton.upenn.edu/profile/kmilkman/">
-Katherine L. Milkman</a>,
-<a href = "https://sites.google.com/view/seanfellis/home?authuser=0">
-Sean F. Ellis</a>,
-<a href = "https://hcmg.wharton.upenn.edu/profile/volpp70/"> Kevin G.
-Volpp</a>, Dena M. Gromet, Joseph S. Kay,
-<a href = "https://oid.wharton.upenn.edu/profile/rkuan/"> Rob Kuan</a>,
-<a href = "https://psychology.sas.upenn.edu/people/angela-duckworth">
-Angela L. Duckworth</a>, <a href = "https://neillewisjr.com/"> Neil A.
-Lewis Jr</a>, <a href = "https://voices.uchicago.edu/jlist/"> John A.
-List</a>, <a href = "https://hcmg.wharton.upenn.edu/profile/mpatel/">
-Mitesh S. Patel</a>. </em>
-</p>
 
 
 
