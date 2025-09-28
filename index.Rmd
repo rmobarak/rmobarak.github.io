@@ -7,11 +7,13 @@
  
 <br>
 
-<p style = "font-size:20px"> I am a Ph.D. student in the <a href = "https://arec.umd.edu/">department of Agricultural and Resource Economics </a> at the <a href = "https://umd.edu/">University of Maryland</a>. My research examines barriers individuals face against investments towards viral infection prevention, and ways to remove such barriers and incentivize such protection. </p>  
+<p style = "font-size:20px"> I am a Ph.D. student in the <a href = "https://arec.umd.edu/">department of Agricultural and Resource Economics </a> at the <a href = "https://umd.edu/">University of Maryland</a>. My research examines decision-making under uncertainty, in the contexts of agricultural storage, financial savings, and vaccination decisions. </p>  
 
 <br>
 
-<p style = "font-size:20px"> Prior to this, I was a Pre-Doctoral Fellow at the <a href = "https://bcfg.wharton.upenn.edu/">Behavior Change For Good Initiative</a>, researching Behavioral Economics at the <a href = "https://www.wharton.upenn.edu/">Wharton School of the University of Pennsylvania</a>. We promoted sustained behavior change through large-scale randomized controlled trials and policy design. I earned my B.A. in Economics and Applied Mathematics & Statistics (2021) from <a href = "https://www.macalester.edu/">Macalester College</a>. </p> 
+<p style = "font-size:20px"> Prior to this, I was a Pre-Doctoral Fellow at the <a href = "https://bcfg.wharton.upenn.edu/">Behavior Change For Good Initiative</a>, researching Behavioral Economics at the <a href = "https://www.wharton.upenn.edu/">Wharton School of the University of Pennsylvania</a>. We promoted sustained behavior change through large-scale randomized controlled trials and policy design. 
+
+I earned my B.A. in Economics and Applied Mathematics & Statistics (2021) from <a href = "https://www.macalester.edu/">Macalester College</a>. </p> 
 
 <br>
 
